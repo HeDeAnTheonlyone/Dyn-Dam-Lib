@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format":16,
+        "name": "Dyn-Dam-Lib",
+        "description": "A library for dealing damage dynamically"
+    }
+}

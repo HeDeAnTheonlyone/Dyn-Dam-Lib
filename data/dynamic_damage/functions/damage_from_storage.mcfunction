@@ -1,2 +1,2 @@
 
-function dynamic_damage:damage with storage dynamic_damage:damage Settings
+$function dynamic_damage:dmg_functions/$(function) with storage $(storage) $(storage_nbt)

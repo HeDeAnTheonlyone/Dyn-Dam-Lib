@@ -1,0 +1,2 @@
+
+function dynamic_damage:damage_from_storage with storage dynamic_damage:config Settings

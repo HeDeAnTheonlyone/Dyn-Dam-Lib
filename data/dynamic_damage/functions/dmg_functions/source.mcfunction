@@ -1,2 +1,2 @@
 
-$damage $(entity) $(dmg) minecraft:$(cause) by $(source)
+$damage $(target) $(dmg) minecraft:$(cause) by $(source)

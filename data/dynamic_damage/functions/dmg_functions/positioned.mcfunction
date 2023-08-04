@@ -1,2 +1,2 @@
 
-$damage $(entity) $(dmg) minecraft:$(cause) at $(x) $(y) $(z)
+$damage $(target) $(dmg) minecraft:$(cause) at $(x) $(y) $(z)

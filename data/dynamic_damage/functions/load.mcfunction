@@ -6,7 +6,7 @@ data merge storage dynamic_damage:config \
         function:"default", \
         storage: "dynamic_damage:config", \
         storage_nbt: "Settings", \
-        entity:"@s", \
+        target:"@s", \
         dmg:1, \
         cause:"generic", \
         x:0, \

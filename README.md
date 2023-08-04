@@ -5,9 +5,9 @@ You only need to change the following settings that you need in the data storage
 <br/>
 
 If you don't want to use the build-in settings storage, you can  create your own with the settings you need.
-This time, when calling the function, use:
-`function dynamic_damage:damage_from_storage with <storage>`
-or you can directly call the different function versions:
+This time, when calling the function, use:<br>
+`function dynamic_damage:damage_from_storage with <storage>`<br>
+or you can directly call the different function versions:<br>
 `function dynamic_damage:dmg_functions/<default/positioned/source/source_displaced> with <storage>`
 
 <br/>

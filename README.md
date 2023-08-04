@@ -14,17 +14,17 @@ or you can directly call the different function versions:<br>
 
 ## Current Settings:
 
-- **function** *what version of the damage function is used.*
-**/\\!!!Not needed if you use `function dynamic_damage:damage_executer`!!!/\\**
-     -*`default`: just damage with target and damage type.*
-     -*`positioned`: like default but with coordinates where the damage comes from.*
-     -*`source`: like default but with a source target selector.*
+- **function** *what version of the damage function is used.*<br>
+**/\\!!!Not needed if you use `function dynamic_damage:damage_executer`!!!/\\**<br>
+     -*`default`: just damage with target and damage type.*<br>
+     -*`positioned`: like default but with coordinates where the damage comes from.*<br>
+     -*`source`: like default but with a source target selector.*<br>
      -*`source_displaced`: like source but with a target selector to change the source position.*
 ---
-- **storage** *the data storage the function should get the data for the damage command.*
+- **storage** *the data storage the function should get the data for the damage command.*<br>
 **/\\!!!Not needed if you use `function dynamic_damage:damage_executer`!!!/\\**
 ---
-- **storage_nbt** *the path to the compount in the selected data storage. If there is none,  put a space here.*
+- **storage_nbt** *the path to the compount in the selected data storage. If there is none,  put a space here.*<br>
 **/\\!!!Not needed if you use `function dynamic_damage:damage_executer`!!!/\\**
 ---
 - **target**   *any selector, even stuff like `@e[type=husk,tag=jeff,distance=..30,limit=10]` works)*
